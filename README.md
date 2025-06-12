@@ -1,0 +1,2 @@
+# TrojanRoom-Backdoor-Attack
+参考TrojanRoom攻击框架实现的一个简单的CNN语音指令识别模型后门攻击
