@@ -3,7 +3,7 @@
 
 本校某选修课的期末实验设计，参考论文《Devil in the Room: Triggering Audio Backdoors in the Physical World》的方法进行小模型上的简单实现；
 
-参考文献：[Chen M, Xu X, Lu L, Ba Z, Lin F, Ren K. Devil in the Room: Triggering Audio Backdoors in the Physical World[J]. Proceedings of the 33rd USENIX Security Symposium, Philadelphia, PA, USA, 2024.](https://example.com)
+参考文献：[Chen M, Xu X, Lu L, Ba Z, Lin F, Ren K. Devil in the Room: Triggering Audio Backdoors in the Physical World[J]. Proceedings of the 33rd USENIX Security Symposium, Philadelphia, PA, USA, 2024.](https://www.usenix.org/conference/usenixsecurity24/presentation/chen-meng)
 
 <font color=dark>**本项目相关文件与代码仅用于网络安全与人工智能相关学习研究使用**</font>
 
